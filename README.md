@@ -1,2 +1,0 @@
-# TechCognition
-First University Project
